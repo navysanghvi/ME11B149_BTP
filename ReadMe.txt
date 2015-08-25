@@ -63,9 +63,8 @@ e. MobileRobot_Video.mp4 : Video of physical mobile robot P3-DX testing cases
 MobileRobots
 --------------
 
-
-Download ARIA, Mapper3Basic and MobileSim. Copy and rename appropriate exe files as detailed above and below.
-
+THESE FILES ARE ONLY FOR 32 BIT WINDOWS SYSTEMS
+FOR OTHER SYSTEMS, INSTALL THE APPROPRIATE BINARY
 
 1. ARIA : README file contains instructions for settings while using VisualStudio on Windows. As mentioned above, with these settings, all exe files must be run from MobileRobots\ARIA\bin
 
@@ -85,4 +84,8 @@ d. ARIA\bin\3_obst_dyn.exe : Dynamic Obstacles case testing file (check for deta
 
 
 
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------------------------------
+=======
+-----------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 3d2c0d65f90980aaae0c1b008af1a33b50c205ee
