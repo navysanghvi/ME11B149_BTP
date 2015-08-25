@@ -63,8 +63,9 @@ e. MobileRobot_Video.mp4 : Video of physical mobile robot P3-DX testing cases
 MobileRobots
 --------------
 
-THESE FILES ARE ONLY FOR 32 BIT WINDOWS SYSTEMS
-FOR OTHER SYSTEMS, INSTALL THE APPROPRIATE BINARY
+
+Download ARIA, Mapper3Basic and MobileSim. Copy and rename appropriate exe files as detailed above and below.
+
 
 1. ARIA : README file contains instructions for settings while using VisualStudio on Windows. As mentioned above, with these settings, all exe files must be run from MobileRobots\ARIA\bin
 
